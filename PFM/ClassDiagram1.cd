@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PFM.frmPrincipal" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABGAIEQQAGCAgJACAECAEDACQIAQkiAAAgAAIAAAAQI=</HashCode>
+      <FileName>frmPrincipal.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PFM.Categoria">
+    <Position X="2.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAIAAAAAAAAACAAAAAggAAAAAAAAAECAgAAAAAAAg=</HashCode>
+      <FileName>Categoria.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PFM.Pagina">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAMQAAAAAAAAECEAAIAAAABAAk=</HashCode>
+      <FileName>Pagina.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PFM.Producto">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAgAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Producto.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PFM.frmAddCategoria" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACCAAIAABACAAACCACAAAAAAIAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
